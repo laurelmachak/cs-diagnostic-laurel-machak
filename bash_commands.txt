@@ -1,0 +1,9 @@
+cd
+ls
+pwd
+nano cookies.txt
+mkdir recipes
+rm
+#stage a file in Git
+#Commit a file in Git
+#Push the file to the Git remote's origin, on the master branch
